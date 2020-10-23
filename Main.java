@@ -19,5 +19,5 @@ class Main {
         System.out.println("ZAHL und VORGÄNGER addiert ergeben ERGEBNIS und ERGEBNIS ist durch 3 teilbar!");
       }
     }
-  }
+}
 }
